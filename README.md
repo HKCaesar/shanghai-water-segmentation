@@ -5,7 +5,7 @@ by Chris Franzini
 This is my fifth and final project for the [Metis](http://thisismetis.com) NYC Spring 2017 Data Science Bootcamp. This project implements segmentation to detect water in satellite images of Shanghai provided by Digital Globe.
 
 ## Blog Post
-You can read about this project on my blog: [cjfranzini.github.io](http://cjfranzini.github.io)
+Look out for the post about this project on my blog: [cjfranzini.github.io](http://cjfranzini.github.io)
 
 ## Repo Contents
 - **notebooks:** Jupyter notebooks detailing my analysis
